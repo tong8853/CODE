@@ -1,0 +1,1 @@
+{"name":"Local: KMP_FindAll_my","url":"d:\\code\\c++code\\字符串\\KMP_FindAll_my.cpp","tests":[{"id":1760371181846,"input":"ABABABC\nABA\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\字符串\\KMP_FindAll_my.cpp","group":"local","local":true}

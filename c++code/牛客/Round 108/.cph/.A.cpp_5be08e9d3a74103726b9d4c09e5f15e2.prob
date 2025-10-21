@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\code\\c++code\\牛客\\Round 108\\A.cpp","tests":[{"id":1757243077202,"input":"389 56 98 100","output":"YES"},{"id":1757243096910,"input":"430 70 98 49","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\牛客\\Round 108\\A.cpp","group":"local","local":true}

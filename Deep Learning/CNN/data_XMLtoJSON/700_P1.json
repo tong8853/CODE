@@ -1,0 +1,2325 @@
+{
+    "_declaration": {
+        "_attributes": {
+            "version": "1.0",
+            "encoding": "utf-8"
+        }
+    },
+    "annotation": {
+        "folder": {
+            "_text": "D:/zhangjunwei/成熟度/images1/Annotations"
+        },
+        "filename": {
+            "_text": "stereo20190405_135700_p1_snap_094.jpg"
+        },
+        "size": {
+            "width": {
+                "_text": "2000"
+            },
+            "height": {
+                "_text": "2000"
+            },
+            "depth": {
+                "_text": "3"
+            }
+        },
+        "object": [
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "573.4375"
+                    },
+                    "ymin": {
+                        "_text": "7.03125"
+                    },
+                    "xmax": {
+                        "_text": "750.0"
+                    },
+                    "ymax": {
+                        "_text": "203.90625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1117.1875"
+                    },
+                    "ymin": {
+                        "_text": "167.96875"
+                    },
+                    "xmax": {
+                        "_text": "1210.9375"
+                    },
+                    "ymax": {
+                        "_text": "297.65625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "987.5"
+                    },
+                    "ymin": {
+                        "_text": "155.46875"
+                    },
+                    "xmax": {
+                        "_text": "1112.5"
+                    },
+                    "ymax": {
+                        "_text": "302.34375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1517.1875"
+                    },
+                    "ymin": {
+                        "_text": "71.09375"
+                    },
+                    "xmax": {
+                        "_text": "1579.6875"
+                    },
+                    "ymax": {
+                        "_text": "139.84375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1500.0"
+                    },
+                    "ymin": {
+                        "_text": "294.53125"
+                    },
+                    "xmax": {
+                        "_text": "1557.8125"
+                    },
+                    "ymax": {
+                        "_text": "383.59375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1551.5625"
+                    },
+                    "ymin": {
+                        "_text": "291.40625"
+                    },
+                    "xmax": {
+                        "_text": "1600.0"
+                    },
+                    "ymax": {
+                        "_text": "364.84375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "567.1875"
+                    },
+                    "ymin": {
+                        "_text": "583.59375"
+                    },
+                    "xmax": {
+                        "_text": "684.375"
+                    },
+                    "ymax": {
+                        "_text": "678.90625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "520.3125"
+                    },
+                    "ymin": {
+                        "_text": "628.90625"
+                    },
+                    "xmax": {
+                        "_text": "640.625"
+                    },
+                    "ymax": {
+                        "_text": "760.15625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "998.4375"
+                    },
+                    "ymin": {
+                        "_text": "710.15625"
+                    },
+                    "xmax": {
+                        "_text": "1126.5625"
+                    },
+                    "ymax": {
+                        "_text": "839.84375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "950.0"
+                    },
+                    "ymin": {
+                        "_text": "763.28125"
+                    },
+                    "xmax": {
+                        "_text": "1131.25"
+                    },
+                    "ymax": {
+                        "_text": "897.65625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "996.875"
+                    },
+                    "ymin": {
+                        "_text": "892.96875"
+                    },
+                    "xmax": {
+                        "_text": "1093.75"
+                    },
+                    "ymax": {
+                        "_text": "975.78125"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1003.125"
+                    },
+                    "ymin": {
+                        "_text": "966.40625"
+                    },
+                    "xmax": {
+                        "_text": "1140.625"
+                    },
+                    "ymax": {
+                        "_text": "1089.84375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1248.4375"
+                    },
+                    "ymin": {
+                        "_text": "713.28125"
+                    },
+                    "xmax": {
+                        "_text": "1279.6875"
+                    },
+                    "ymax": {
+                        "_text": "755.46875"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1275.0"
+                    },
+                    "ymin": {
+                        "_text": "697.65625"
+                    },
+                    "xmax": {
+                        "_text": "1296.875"
+                    },
+                    "ymax": {
+                        "_text": "727.34375"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1453.125"
+                    },
+                    "ymin": {
+                        "_text": "594.53125"
+                    },
+                    "xmax": {
+                        "_text": "1484.375"
+                    },
+                    "ymax": {
+                        "_text": "635.15625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1589.1472868217054"
+                    },
+                    "ymin": {
+                        "_text": "555.813953488372"
+                    },
+                    "xmax": {
+                        "_text": "1620.9302325581396"
+                    },
+                    "ymax": {
+                        "_text": "591.4728682170543"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1587.596899224806"
+                    },
+                    "ymin": {
+                        "_text": "605.4263565891473"
+                    },
+                    "xmax": {
+                        "_text": "1624.8062015503876"
+                    },
+                    "ymax": {
+                        "_text": "642.6356589147287"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1572.093023255814"
+                    },
+                    "ymin": {
+                        "_text": "648.8372093023256"
+                    },
+                    "xmax": {
+                        "_text": "1648.8372093023256"
+                    },
+                    "ymax": {
+                        "_text": "717.0542635658915"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1555.8139534883721"
+                    },
+                    "ymin": {
+                        "_text": "600.0"
+                    },
+                    "xmax": {
+                        "_text": "1585.2713178294573"
+                    },
+                    "ymax": {
+                        "_text": "632.5581395348837"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1504.1884816753925"
+                    },
+                    "ymin": {
+                        "_text": "620.4188481675392"
+                    },
+                    "xmax": {
+                        "_text": "1587.958115183246"
+                    },
+                    "ymax": {
+                        "_text": "697.9057591623036"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1476.9633507853403"
+                    },
+                    "ymin": {
+                        "_text": "668.0628272251308"
+                    },
+                    "xmax": {
+                        "_text": "1568.0628272251308"
+                    },
+                    "ymax": {
+                        "_text": "745.0261780104712"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1407.329842931937"
+                    },
+                    "ymin": {
+                        "_text": "756.0209424083769"
+                    },
+                    "xmax": {
+                        "_text": "1441.8848167539265"
+                    },
+                    "ymax": {
+                        "_text": "794.240837696335"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1436.1256544502617"
+                    },
+                    "ymin": {
+                        "_text": "747.1204188481674"
+                    },
+                    "xmax": {
+                        "_text": "1470.1570680628272"
+                    },
+                    "ymax": {
+                        "_text": "783.7696335078533"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1341.8848167539265"
+                    },
+                    "ymin": {
+                        "_text": "813.6125654450261"
+                    },
+                    "xmax": {
+                        "_text": "1387.4345549738218"
+                    },
+                    "ymax": {
+                        "_text": "854.4502617801046"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1375.916230366492"
+                    },
+                    "ymin": {
+                        "_text": "829.3193717277486"
+                    },
+                    "xmax": {
+                        "_text": "1408.3769633507852"
+                    },
+                    "ymax": {
+                        "_text": "860.2094240837696"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "73.07692307692308"
+                    },
+                    "ymin": {
+                        "_text": "157.69230769230768"
+                    },
+                    "xmax": {
+                        "_text": "160.76923076923077"
+                    },
+                    "ymax": {
+                        "_text": "236.9230769230769"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "154.6153846153846"
+                    },
+                    "ymin": {
+                        "_text": "149.23076923076923"
+                    },
+                    "xmax": {
+                        "_text": "231.53846153846152"
+                    },
+                    "ymax": {
+                        "_text": "230.76923076923077"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "416.9230769230769"
+                    },
+                    "ymin": {
+                        "_text": "665.3846153846154"
+                    },
+                    "xmax": {
+                        "_text": "455.38461538461536"
+                    },
+                    "ymax": {
+                        "_text": "703.8461538461538"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "240.86956521739128"
+                    },
+                    "ymin": {
+                        "_text": "733.0434782608695"
+                    },
+                    "xmax": {
+                        "_text": "289.5652173913043"
+                    },
+                    "ymax": {
+                        "_text": "780.8695652173913"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "39.99999999999999"
+                    },
+                    "ymin": {
+                        "_text": "661.7391304347825"
+                    },
+                    "xmax": {
+                        "_text": "116.52173913043477"
+                    },
+                    "ymax": {
+                        "_text": "730.4347826086955"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "48.69565217391304"
+                    },
+                    "ymin": {
+                        "_text": "718.2608695652173"
+                    },
+                    "xmax": {
+                        "_text": "123.4782608695652"
+                    },
+                    "ymax": {
+                        "_text": "779.1304347826086"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "105.21739130434781"
+                    },
+                    "ymin": {
+                        "_text": "696.5217391304348"
+                    },
+                    "xmax": {
+                        "_text": "166.0869565217391"
+                    },
+                    "ymax": {
+                        "_text": "757.391304347826"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "653.0434782608695"
+                    },
+                    "ymin": {
+                        "_text": "671.3043478260869"
+                    },
+                    "xmax": {
+                        "_text": "716.5217391304348"
+                    },
+                    "ymax": {
+                        "_text": "732.1739130434781"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1092.173913043478"
+                    },
+                    "ymin": {
+                        "_text": "560.8695652173913"
+                    },
+                    "xmax": {
+                        "_text": "1184.3478260869563"
+                    },
+                    "ymax": {
+                        "_text": "636.5217391304348"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "110.43478260869564"
+                    },
+                    "ymin": {
+                        "_text": "859.1304347826086"
+                    },
+                    "xmax": {
+                        "_text": "129.56521739130434"
+                    },
+                    "ymax": {
+                        "_text": "881.7391304347825"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "5.045871559633026"
+                    },
+                    "ymin": {
+                        "_text": "1010.091743119266"
+                    },
+                    "xmax": {
+                        "_text": "41.74311926605504"
+                    },
+                    "ymax": {
+                        "_text": "1055.9633027522934"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "67.43119266055045"
+                    },
+                    "ymin": {
+                        "_text": "986.2385321100917"
+                    },
+                    "xmax": {
+                        "_text": "113.30275229357797"
+                    },
+                    "ymax": {
+                        "_text": "1033.9449541284403"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "108.71559633027522"
+                    },
+                    "ymin": {
+                        "_text": "996.3302752293578"
+                    },
+                    "xmax": {
+                        "_text": "155.5045871559633"
+                    },
+                    "ymax": {
+                        "_text": "1038.532110091743"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "36.23853211009174"
+                    },
+                    "ymin": {
+                        "_text": "1064.2201834862385"
+                    },
+                    "xmax": {
+                        "_text": "74.77064220183486"
+                    },
+                    "ymax": {
+                        "_text": "1094.4954128440365"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "115.27777777777777"
+                    },
+                    "ymin": {
+                        "_text": "1131.0185185185185"
+                    },
+                    "xmax": {
+                        "_text": "147.2222222222222"
+                    },
+                    "ymax": {
+                        "_text": "1163.888888888889"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "249.66887417218544"
+                    },
+                    "ymin": {
+                        "_text": "1219.205298013245"
+                    },
+                    "xmax": {
+                        "_text": "326.49006622516555"
+                    },
+                    "ymax": {
+                        "_text": "1284.1059602649007"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "245.03311258278146"
+                    },
+                    "ymin": {
+                        "_text": "1458.2781456953642"
+                    },
+                    "xmax": {
+                        "_text": "295.36423841059604"
+                    },
+                    "ymax": {
+                        "_text": "1506.6225165562914"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "281.4569536423841"
+                    },
+                    "ymin": {
+                        "_text": "1447.0198675496688"
+                    },
+                    "xmax": {
+                        "_text": "349.66887417218544"
+                    },
+                    "ymax": {
+                        "_text": "1503.3112582781457"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "394.70198675496687"
+                    },
+                    "ymin": {
+                        "_text": "1276.8211920529802"
+                    },
+                    "xmax": {
+                        "_text": "438.41059602649005"
+                    },
+                    "ymax": {
+                        "_text": "1315.8940397350993"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "459.6026490066225"
+                    },
+                    "ymin": {
+                        "_text": "1203.9735099337747"
+                    },
+                    "xmax": {
+                        "_text": "529.1390728476821"
+                    },
+                    "ymax": {
+                        "_text": "1269.5364238410596"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "553.6423841059602"
+                    },
+                    "ymin": {
+                        "_text": "1145.0331125827815"
+                    },
+                    "xmax": {
+                        "_text": "670.1986754966888"
+                    },
+                    "ymax": {
+                        "_text": "1263.5761589403974"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "987.4172185430464"
+                    },
+                    "ymin": {
+                        "_text": "1572.185430463576"
+                    },
+                    "xmax": {
+                        "_text": "1123.1788079470198"
+                    },
+                    "ymax": {
+                        "_text": "1706.6225165562914"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1061.58940397351"
+                    },
+                    "ymin": {
+                        "_text": "1651.6556291390727"
+                    },
+                    "xmax": {
+                        "_text": "1207.9470198675497"
+                    },
+                    "ymax": {
+                        "_text": "1799.3377483443708"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1094.0397350993378"
+                    },
+                    "ymin": {
+                        "_text": "1172.185430463576"
+                    },
+                    "xmax": {
+                        "_text": "1246.3576158940398"
+                    },
+                    "ymax": {
+                        "_text": "1339.7350993377484"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1211.9205298013244"
+                    },
+                    "ymin": {
+                        "_text": "1231.7880794701987"
+                    },
+                    "xmax": {
+                        "_text": "1318.5430463576158"
+                    },
+                    "ymax": {
+                        "_text": "1355.6291390728477"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "899.3377483443709"
+                    },
+                    "ymin": {
+                        "_text": "788.7417218543046"
+                    },
+                    "xmax": {
+                        "_text": "943.7086092715232"
+                    },
+                    "ymax": {
+                        "_text": "825.8278145695364"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "850.9933774834437"
+                    },
+                    "ymin": {
+                        "_text": "911.9205298013245"
+                    },
+                    "xmax": {
+                        "_text": "881.4569536423841"
+                    },
+                    "ymax": {
+                        "_text": "943.0463576158941"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "878.6764705882352"
+                    },
+                    "ymin": {
+                        "_text": "850.3676470588234"
+                    },
+                    "xmax": {
+                        "_text": "915.8088235294117"
+                    },
+                    "ymax": {
+                        "_text": "881.985294117647"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "915.8119658119658"
+                    },
+                    "ymin": {
+                        "_text": "844.0170940170941"
+                    },
+                    "xmax": {
+                        "_text": "939.7435897435898"
+                    },
+                    "ymax": {
+                        "_text": "873.931623931624"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "864.5299145299145"
+                    },
+                    "ymin": {
+                        "_text": "1082.4786324786326"
+                    },
+                    "xmax": {
+                        "_text": "898.7179487179487"
+                    },
+                    "ymax": {
+                        "_text": "1108.9743589743591"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "997.8632478632479"
+                    },
+                    "ymin": {
+                        "_text": "1109.8290598290598"
+                    },
+                    "xmax": {
+                        "_text": "1033.7606837606838"
+                    },
+                    "ymax": {
+                        "_text": "1138.888888888889"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1028.2051282051282"
+                    },
+                    "ymin": {
+                        "_text": "1103.4188034188035"
+                    },
+                    "xmax": {
+                        "_text": "1058.5470085470085"
+                    },
+                    "ymax": {
+                        "_text": "1134.1880341880342"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "994.4444444444445"
+                    },
+                    "ymin": {
+                        "_text": "1148.7179487179487"
+                    },
+                    "xmax": {
+                        "_text": "1023.5042735042736"
+                    },
+                    "ymax": {
+                        "_text": "1179.4871794871794"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "959.8290598290599"
+                    },
+                    "ymin": {
+                        "_text": "1303.846153846154"
+                    },
+                    "xmax": {
+                        "_text": "988.0341880341881"
+                    },
+                    "ymax": {
+                        "_text": "1332.0512820512822"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1055.982905982906"
+                    },
+                    "ymin": {
+                        "_text": "1321.3675213675215"
+                    },
+                    "xmax": {
+                        "_text": "1082.4786324786326"
+                    },
+                    "ymax": {
+                        "_text": "1346.1538461538462"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1794.0909090909088"
+                    },
+                    "ymin": {
+                        "_text": "1461.8181818181818"
+                    },
+                    "xmax": {
+                        "_text": "1942.272727272727"
+                    },
+                    "ymax": {
+                        "_text": "1608.181818181818"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1924.4318181818185"
+                    },
+                    "ymin": {
+                        "_text": "1484.090909090909"
+                    },
+                    "xmax": {
+                        "_text": "1999.0"
+                    },
+                    "ymax": {
+                        "_text": "1639.0"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1828.977272727273"
+                    },
+                    "ymin": {
+                        "_text": "1796.590909090909"
+                    },
+                    "xmax": {
+                        "_text": "1996.0227272727275"
+                    },
+                    "ymax": {
+                        "_text": "1954.5454545454545"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1599.431818181818"
+                    },
+                    "ymin": {
+                        "_text": "1070.4545454545455"
+                    },
+                    "xmax": {
+                        "_text": "1649.431818181818"
+                    },
+                    "ymax": {
+                        "_text": "1119.3181818181818"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1251.7482517482517"
+                    },
+                    "ymin": {
+                        "_text": "1103.4965034965035"
+                    },
+                    "xmax": {
+                        "_text": "1291.6083916083917"
+                    },
+                    "ymax": {
+                        "_text": "1136.3636363636365"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1239.86013986014"
+                    },
+                    "ymin": {
+                        "_text": "958.0419580419581"
+                    },
+                    "xmax": {
+                        "_text": "1261.5384615384617"
+                    },
+                    "ymax": {
+                        "_text": "982.5174825174826"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1216.7832167832169"
+                    },
+                    "ymin": {
+                        "_text": "846.8531468531469"
+                    },
+                    "xmax": {
+                        "_text": "1279.020979020979"
+                    },
+                    "ymax": {
+                        "_text": "894.4055944055945"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1310.4895104895106"
+                    },
+                    "ymin": {
+                        "_text": "983.2167832167833"
+                    },
+                    "xmax": {
+                        "_text": "1336.3636363636365"
+                    },
+                    "ymax": {
+                        "_text": "1013.2867132867133"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1334.375"
+                    },
+                    "ymin": {
+                        "_text": "975.0"
+                    },
+                    "xmax": {
+                        "_text": "1371.875"
+                    },
+                    "ymax": {
+                        "_text": "1013.0208333333334"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1368.2291666666667"
+                    },
+                    "ymin": {
+                        "_text": "965.1041666666667"
+                    },
+                    "xmax": {
+                        "_text": "1407.2916666666667"
+                    },
+                    "ymax": {
+                        "_text": "1014.0625"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1801.685393258427"
+                    },
+                    "ymin": {
+                        "_text": "1020.2247191011236"
+                    },
+                    "xmax": {
+                        "_text": "1829.7752808988764"
+                    },
+                    "ymax": {
+                        "_text": "1048.314606741573"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1813.4831460674156"
+                    },
+                    "ymin": {
+                        "_text": "1083.1460674157304"
+                    },
+                    "xmax": {
+                        "_text": "1846.067415730337"
+                    },
+                    "ymax": {
+                        "_text": "1106.741573033708"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1824.7191011235955"
+                    },
+                    "ymin": {
+                        "_text": "1032.0224719101122"
+                    },
+                    "xmax": {
+                        "_text": "1856.741573033708"
+                    },
+                    "ymax": {
+                        "_text": "1056.1797752808989"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "TurningStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1953.0487804878046"
+                    },
+                    "ymin": {
+                        "_text": "723.170731707317"
+                    },
+                    "xmax": {
+                        "_text": "1999.0"
+                    },
+                    "ymax": {
+                        "_text": "767.0"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1898.5221674876846"
+                    },
+                    "ymin": {
+                        "_text": "536.9458128078817"
+                    },
+                    "xmax": {
+                        "_text": "1953.2019704433494"
+                    },
+                    "ymax": {
+                        "_text": "595.0738916256157"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1870.9359605911327"
+                    },
+                    "ymin": {
+                        "_text": "611.3300492610837"
+                    },
+                    "xmax": {
+                        "_text": "1917.733990147783"
+                    },
+                    "ymax": {
+                        "_text": "656.1576354679802"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1849.2610837438422"
+                    },
+                    "ymin": {
+                        "_text": "637.9310344827585"
+                    },
+                    "xmax": {
+                        "_text": "1891.1330049261082"
+                    },
+                    "ymax": {
+                        "_text": "674.3842364532019"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1466.549295774648"
+                    },
+                    "ymin": {
+                        "_text": "1073.5915492957747"
+                    },
+                    "xmax": {
+                        "_text": "1483.0985915492959"
+                    },
+                    "ymax": {
+                        "_text": "1090.4929577464789"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1320.4620462046203"
+                    },
+                    "ymin": {
+                        "_text": "1100.6600660066006"
+                    },
+                    "xmax": {
+                        "_text": "1338.2838283828382"
+                    },
+                    "ymax": {
+                        "_text": "1114.8514851485147"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "MatureStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "1191.8918918918919"
+                    },
+                    "ymin": {
+                        "_text": "220.54054054054052"
+                    },
+                    "xmax": {
+                        "_text": "1227.0270270270269"
+                    },
+                    "ymax": {
+                        "_text": "291.8918918918919"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "839.6551724137931"
+                    },
+                    "ymin": {
+                        "_text": "1061.4942528735633"
+                    },
+                    "xmax": {
+                        "_text": "859.7701149425287"
+                    },
+                    "ymax": {
+                        "_text": "1083.3333333333333"
+                    }
+                }
+            },
+            {
+                "name": {
+                    "_text": "WhiteStage"
+                },
+                "pose": {
+                    "_text": "Unspecified"
+                },
+                "truncated": {
+                    "_text": "0"
+                },
+                "difficult": {
+                    "_text": "0"
+                },
+                "bndbox": {
+                    "xmin": {
+                        "_text": "800.5747126436781"
+                    },
+                    "ymin": {
+                        "_text": "1163.2183908045977"
+                    },
+                    "xmax": {
+                        "_text": "824.1379310344828"
+                    },
+                    "ymax": {
+                        "_text": "1185.632183908046"
+                    }
+                }
+            }
+        ]
+    }
+}

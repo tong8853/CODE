@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "cppbuild",
+            "label": "g++", // 与launch.json的preLaunchTask保持一致
+            "command": "D:/mingw/MinGW/bin/g++.exe", // 用完整路径确保g++可被找到
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g", // 生成调试信息（必须，否则调试器无法断点）
+                "-std=c++17", // 保留C++17标准
+                "${file}", // 编译当前打开的文件
+                "-o",
+                "${fileDirname}/${fileBasenameNoExtension}.exe" // 统一用/分隔路径
+            ],
+            "options": {
+                "cwd": "${fileDirname}" // 工作目录设为当前文件目录，避免路径混乱
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true // 设为默认编译任务
+            },
+            "detail": "用于调试的编译任务"
+        }
+    ]
+}

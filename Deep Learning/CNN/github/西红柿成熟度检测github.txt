@@ -1,0 +1,14 @@
+1. Tomato Ripeness Detection with YOLO
+核心思路：用 YOLO 系列模型（如 YOLOv5、YOLOv8）同时实现西红柿的检测和成熟度分类（多类别检测）。
+特点：实时性强，适合移动端或工业场景部署，代码简洁易上手。
+参考仓库：
+ultralytics/ultralytics（YOLOv8 官方库，可直接基于此训练自定义数据集，包含西红柿成熟度检测的示例流程）
+AarohiSingla/Tomato-Ripeness-Detection（基于 YOLOv5 的西红柿成熟度检测，含数据集处理和训练代码）
+
+2. CNN 分类模型（如 ResNet、MobileNet）
+核心思路：先通过目标检测提取西红柿区域，再用分类模型判断成熟度；或直接对含西红柿的图像进行分类。
+特点：适合数据集较小的场景，代码结构简单，便于入门。
+参考仓库：
+shubhamagarwal001/Tomato-Ripeness-Classification（基于 ResNet50 和 MobileNet 的分类模型，含数据增强和训练代码）
+aniketmaurya/Tomato-Ripeness-Detection-using-CNN（基础 CNN 模型实现，适合初学者理解原理）
+

@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\code\\c++code\\CF\\Round 1047\\B.cpp","tests":[{"id":1757334254493,"input":"3\n3\n1 3 2\n5\n5 1 2 4 3\n7\n6 7 1 5 4 3 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\CF\\Round 1047\\B.cpp","group":"local","local":true}

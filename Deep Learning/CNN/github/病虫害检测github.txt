@@ -1,0 +1,13 @@
+###病虫害识别
+saroz014/Plant-Diseases-Recognition：基于 Django 和卷积神经网络（CNN），可识别 38 类不同的植物叶片病虫害，涵盖苹果、玉米、葡萄、番茄等多种作物的病害类型。项目使用 PlantVillage 数据集，提供了模型训练和 Web 应用部署的完整流程，代码地址为https://github.com/saroz014/Plant-Diseases-Recognition
+
+gaurank11/PlantDiseaseClassifier：专注于马铃薯病害分类，利用 CNN 模型区分早疫病、晚疫病和健康植株。基于 PlantVillage 数据集，使用 TensorFlow 和 Keras 构建，代码地址为https://github.com/gaurank11/PlantDiseaseClassifier。
+
+AHMEDSANA/Plant-Disease-Detection：针对 PlantVillage 数据集开发，包含数据加载、模型训练和病害预测功能，还提供 Grad-CAM 热图可视化分析，帮助理解模型对病害特征的关注区域，代码地址为https://github.com/AHMEDSANA/Plant-Disease-Detection。
+
+###高空无人机
+ruixing123/pdt_cwc_yolo-dp：该项目针对无人机航拍场景构建了PDT 病虫害树数据集和CWC 杂草作物数据集，并提出 YOLO-DP 模型，专门优化了高空视角下小目标病虫害的检测精度。代码地址为https://github.com/ruixing123/pdt_cwc_yolo-dp。
+
+基于 Yolact 的农业病虫害识别项目：Yolact 模型支持实时实例分割，能同时输出作物病虫害的轮廓与类别信息，适配无人机动态巡检场景。项目地址为https://gitcode.com/gh_mirrors/yo/yolact，可通过无人机航拍图像实现作物生长参数提取与病虫害识别。
+
+基于 YOLOv8 的无人机巡检系统：以 YOLOv8 为核心，适配无人机航拍的高分辨率图像，可用于柑橘、玉米等作物的病虫害识别。例如在https://blog.csdn.net/m0_74320616/article/details/146093081中提供的开源项目，支持模型轻量化部署，满足无人机边缘计算需求。

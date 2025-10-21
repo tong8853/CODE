@@ -1,0 +1,12 @@
+# 请求库
+requests==2.31.0
+
+# 解析库
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# 动态渲染/自动化工具
+selenium==4.18.1
+
+# 辅助工具
+fake_useragent==1.5.1
