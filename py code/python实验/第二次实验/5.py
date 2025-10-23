@@ -20,7 +20,7 @@ def QStu():
             print(f"{key}: {val}")
     else:
         print("未找到该学生")
-#修改        
+#修改   
 def XStu():
     id = input("请输入要修改的学号: ")
     if id not in stus:
