@@ -2,7 +2,7 @@
 using namespace std;
 #include "LinkQueue.cpp"
 
-void main()
+int main()
 {
     LinkQueue<int> Q;
     if (Q.Empty())
@@ -32,4 +32,6 @@ void main()
     }
     cout << "查看队头元素:" << endl;
     cout << Q.GetQueue() << endl;
+
+    return 0;
 }

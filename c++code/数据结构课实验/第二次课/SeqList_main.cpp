@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-#include "SeqList.h"
+#include "SeqList.cpp"
 
 int main() {
     int r[5] = {1, 2, 3, 4, 5};

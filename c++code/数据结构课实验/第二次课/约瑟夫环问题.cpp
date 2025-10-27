@@ -27,7 +27,7 @@ void yuesefu(int n, int m) {
     // 求解过程
     Node* p = head;
     cout << "出列顺序：";
-    while (p->next != p) {  // 只剩一个节点时停止
+    while (p->next != p) {  // 只剩一个节点时停止100
         // 移动m-1步
         for (int i = 1; i < m; ++i) {
             p = p->next;

@@ -6,23 +6,23 @@ SeqStack<DataType>::SeqStack(){
 }
 
 template <class DataType>
-void SeqStack<class DataType>::Push(DataType x){
-    if(top == StackSize - 1) throw"上溢";
+void SeqStack<DataType>::Push(DataType x){
+    if(top == StackSize - 1) throw "上溢";
     top++;
     data[top] = x;
 }
 
 template <class DataType>
 DataType SeqStack<DataType>::Pop(){
-    DataType x;
-    if(top == -1) throw"下溢";
-    x = data[top--];
+    if(top == -1) throw "下溢";
+    DataType x = data[top];
+    top--;
     return x;
 }
 
 template <class DataType>
 DataType SeqStack<DataType>::GetTop(){
-    if(top != -1)
+    if(top == -1) throw "栈空";
     return data[top];
 }
 

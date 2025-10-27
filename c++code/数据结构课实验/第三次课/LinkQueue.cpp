@@ -2,16 +2,15 @@
 
 template <class Datatype>
 LinkQueue<Datatype>::LinkQueue(){
-    Node<DataType> *s = NULL;
-    s = new Node<DataType>;
+    Node<Datatype> *s = new Node<Datatype>;
     s->next = NULL;
     front = rear = s;
 }
 
 template <class Datatype>
 LinkQueue<Datatype>::~LinkQueue(){
-    Node<DataType> *s = NULL;
-    while(front != NILL){
+    Node<Datatype> *p;
+    while(front != NULL){
         p = front->next;
         delete front;
         front = p;
@@ -20,30 +19,28 @@ LinkQueue<Datatype>::~LinkQueue(){
 
 template <class Datatype>
 void LinkQueue<Datatype>::EnQueue(Datatype x){
-    Node<DataType> *s = NULL;
-    s = new Node<DataType>;
+    Node<Datatype> *s = new Node<Datatype>;
     s->data = x;
     s->next = NULL;
     rear->next = s;
-    rear  = s;
+    rear = s;
 }
 
 template <class Datatype>
 Datatype LinkQueue<Datatype>::DeQueue(){
-    Node<DataType> *s = NULL;
-    int x;
-    if(rear == front) throw "下溢"
-    p = front->next;
-    x = p->data;
+    if(rear == front) throw "下溢";
+    Node<Datatype> *p = front->next;
+    Datatype x = p->data;
     front->next = p->next;
-    if(p -> next == NULL) rear = front;
+    if(p->next == NULL) rear = front;
     delete p;
     return x;
 }
 
 template <class Datatype>
 Datatype LinkQueue<Datatype>::GetQueue(){
-    if(front != rear) return front->next->data;
+    if(front == rear) throw "队列为空";
+    return front->next->data;
 }
 
 template <class Datatype>

@@ -5,15 +5,25 @@ using namespace std;
 #define rep(i, a, b) for (int i = a; i <= b; ++i)
 #define all(x) (x).begin(), (x).end()
 #define pb(x) push_back(x)
-#define PII pair<int, int>
-#define ff first
-#define ss second
 typedef long long ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 
 void solve(){
-    
+    int n;cin >> n;
+    vector<pair<int, int>> a(n);
+    rep(i, 0, n - 1){
+        cin >> a[i].first >> a[i].second;
+    }
+    sort(all(a));
+    ll mex = 0;
+    rep(i, 0, n - 1){
+        if(mex < a[i].first) break;
+        else if(mex >= a[i].first && mex <= a[i].second){
+            mex++;
+        }
+    }
+    cout << mex << endl;
 }
 
 int main() {

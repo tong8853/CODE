@@ -5,15 +5,12 @@ using namespace std;
 #define rep(i, a, b) for (int i = a; i <= b; ++i)
 #define all(x) (x).begin(), (x).end()
 #define pb(x) push_back(x)
-#define PII pair<int, int>
-#define ff first
-#define ss second
 typedef long long ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 
 void solve(){
-    
+    int n, k;cin >> n >> k;
 }
 
 int main() {

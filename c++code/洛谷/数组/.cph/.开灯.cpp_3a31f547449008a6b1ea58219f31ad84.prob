@@ -1,0 +1,1 @@
+{"name":"Local: 开灯","url":"d:\\code\\c++code\\洛谷\\数组\\开灯.cpp","tests":[{"id":1761190074472,"input":"3\n1.618034 13\n2.618034 7\n1.000000 21","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\洛谷\\数组\\开灯.cpp","group":"local","local":true}
