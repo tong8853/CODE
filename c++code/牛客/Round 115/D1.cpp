@@ -5,39 +5,35 @@ using namespace std;
 #define rep(i, a, b) for (int i = a; i <= b; ++i)
 #define all(x) (x).begin(), (x).end()
 #define pb(x) push_back(x)
+#define PII pair<int, int>
+#define ff first
+#define ss second
 typedef long long ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 
 void solve(){
     int n;cin >> n;
-    vector<pair<int, int>> a(n);
-    rep(i, 0, n - 1){
-        cin >> a[i].first >> a[i].second;
-    }
-
-    sort(all(a), [](const auto& x, const auto& y) {
-        return x.second < y.second;
-    });
-
-    int mex = 0;
-    int p = 0;
-
-    for(int x = 0; ; ++x){
-        // 找一个右端点 >= x 的区间
-        while(p < n && a[p].second < x){
-            p++;
+    vector<PII> a(n);
+    rep(i, 0, n - 1)cin >> a[i].ff >> a[i].ss;
+    sort(all(a));
+    priority_queue<int, vi, greater<int>> pq;
+    int ans = 0, i = 0;
+    while(1){
+        //添加左端点 <=ans 的区间 
+        while(i < n && a[i].ff <= ans){
+            pq.push(a[i].ss);
+            i++;
         }
-        if(p >= n) break;
-
-        // 检查这个区间能否放 x
-        if(a[p].first <= x){
-            mex = x + 1;
-            p++; // 用掉这个区间
+        //清理堆中不符合条件的右端点
+        while(pq.size() && pq.top() < ans) pq.pop();
+        
+        if(pq.size() && pq.top() >= ans){
+            ans++;
+            pq.pop();
         }else break;
     }
-
-    cout << mex << endl;
+    cout << ans << endl;
 }
 
 int main() {
