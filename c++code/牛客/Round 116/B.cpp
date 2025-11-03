@@ -2,20 +2,21 @@
 using namespace std;
 
 #define endl '\n'
-#define rep(i, a, b) for (int i = (a); i <= (b); ++i)
-#define per(i, a, b) for (int i = (a); i >= (b); --i)
+#define rep(i, a, b) for (int i = a; i <= b; ++i)
 #define all(x) (x).begin(), (x).end()
 #define pb(x) push_back(x)
 #define PII pair<int, int>
 #define ff first
 #define ss second
-#define debug(x) cerr << #x << " = " << (x) << endl;
 typedef long long ll;
 typedef vector<int> vi;
 typedef vector<ll> vll;
 
 void solve(){
-    
+    int l1, r1, l2, r2;cin >> l1 >> r1 >> l2 >> r2;
+    if(l2 < l1 && r1 < r2 || l1 < l2 && r2 < r1) cout << "A" << endl;
+    else if(r1 < l2 || l1 > r2) cout << "B" << endl;
+    else cout << "C" << endl; 
 }
 
 int main() {
