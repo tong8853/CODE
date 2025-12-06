@@ -37,7 +37,7 @@ struct Z {
     friend istream &operator>>(istream &is, Z &a) { ll v; is >> v; a = Z(v); return is; }
     friend ostream &operator<<(ostream &os, const Z &a) { return os << a.val(); }
 };
-Z power(Z a, ll b) {
+Z qpow(Z a, ll b) {
     Z res = 1;
     for (; b; b /= 2, a *= a) if (b % 2) res *= a;
     return res;

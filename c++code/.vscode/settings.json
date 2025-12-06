@@ -76,4 +76,7 @@
     "aiXcoder.showTrayIcon": true,
     "editor.formatOnSave": false,
     "C_Cpp.formatting": "disabled",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": [],
 }

@@ -7,11 +7,12 @@ using namespace std;
 typedef long long ll;
 typedef vector<int> vi;
 
+const int n = 10e6 + 5;
+vi prime;
+int a[n];
 //核心:一个合数只被其最小质因子筛去
-void solve(){
-    int n, q; cin >> n >> q;
-    vi notp(n + 1);
-    vi prime;
+void Init(){
+    vi notp(n);
     notp[1] = 1;
     rep(i, 2, n){
         if(!notp[i]) prime.push_back(i);
@@ -22,13 +23,19 @@ void solve(){
             if(i % p == 0) break;//说明p是i的最小质因数，则p是i*p的最小质因数
         }
     }
-    while(q--){
-        int k;cin >> k;
-        cout << prime[k - 1] << endl;
+    for(auto x : prime){
+        a[x] = 1;
     }
+}
+
+void solve(){
+    int x;cin >> x;
+    if(a[x] == 1) cout << "Yes" << endl;
+    else cout << "No" << endl;
 }
 int main() {
 	ios_base::sync_with_stdio(false); cin.tie(nullptr);
-    int T = 1;//cin >> T;
+    Init();
+    int T;cin >> T;
 	while(T--) solve();
 }
