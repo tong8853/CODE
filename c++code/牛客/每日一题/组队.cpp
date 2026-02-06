@@ -28,7 +28,7 @@ void solve(){
         if(dq.back() - dq.front() > k){
             dq.pop_front();
             ans--;
-        } 
+        }
     }
     cout << ans << endl;
 }

@@ -1,0 +1,1 @@
+{"name":"Local: B++","url":"d:\\code\\c++code\\牛客\\牛客练习赛\\B++.cpp","tests":[{"id":1766149495157,"input":"3\n9 1 4","output":"YES"},{"id":1766149576581,"input":"4\n1 2 3 4","output":"YES"},{"id":1766149589941,"input":"5\n1 2 3 1 2","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\牛客\\牛客练习赛\\B++.cpp","group":"local","local":true}

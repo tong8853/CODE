@@ -14,25 +14,25 @@ vi KMPsearchAll(const string &text, const string &pattern){
 
     // step1: 构建LPS数组
     vi LPS(n);  //LPS数组要求前后缀不能是子串本身
-    int j = 0; //最长相等前后缀长度
-    int i = 1;  ////因为LPS[0]固定为0，所以下标从1开始
-    while(i < n){
-        if(pattern[i] == pattern[j]){
-            j++;
-            LPS[i] = j;
-            i++;
+    int l = 0; //最长相等前后缀长度
+    int k = 1;  //后缀末尾指针
+    while(k < n){
+        if(pattern[k] == pattern[l]){
+            l++;
+            LPS[k] = l;
+            k++;
         }else{
-            if(j != 0) j = LPS[j - 1];
+            if(l != 0) l = LPS[l - 1];
             else{
-                LPS[i] = 0;
-                i++;
+                LPS[k] = 0;
+                k++;
             }
         }
     }
 
     // Step2 : 查找所有匹配的子串
-    i = 0;
-    j = 0;
+    int i = 0;
+    int j = 0;
     while(i < m){
         if(text[i] == pattern[j]){
             i++;

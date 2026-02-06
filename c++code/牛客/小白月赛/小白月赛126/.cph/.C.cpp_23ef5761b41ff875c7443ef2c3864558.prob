@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\code\\c++code\\牛客\\小白月赛\\小白月赛122\\C.cpp","tests":[{"id":1766753218962,"input":"2\n3 5 2\npupa 15\nquiq 12\nstartliner 4\npupa\nquiq\n3 5 1\npupa 15\nquiq 12\nstartliner 4\nstartliner","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\code\\c++code\\牛客\\小白月赛\\小白月赛122\\C.cpp","group":"local","local":true}
